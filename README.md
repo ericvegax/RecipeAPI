@@ -2,7 +2,6 @@
 A light-weight API to create &amp; add recipes 
 
 ## Usage
-Note: `Coming soon!`
 
 ## Maven
 ```xml
@@ -19,4 +18,4 @@ Note: `Coming soon!`
 </dependency>
 ```
 
-Note: `This repo is currently under development`
+Note: `This repo is no longer being updated`
